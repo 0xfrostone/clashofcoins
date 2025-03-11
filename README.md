@@ -2,21 +2,19 @@
 
 ❗ Need Fee Base Mainnet to claim
 
-🔽 **Install Dependencies**
+## Install Dependencies
+
+🔽 **Clone Repository**
 ```sh
 git pull https://github.com/0xfrostone/clashofcoins.git && cd clashofcoins
+
+🔽 Install Packages
 npm install axios fs dotenv ethers@5
 
-⬇️ Fill Bearer and Private Key using this format
-
-nano text.txt
-
+🔽 Edit .env File
 nano .env
 
-⬇️ Run Bot
+🔽 Edit token.txt File
+nano token.txt
 
-node coc.js
-
-⬇️ How to find your bearer? 
-
-F12 - Local Storage - Clashofcoins - Privy Token
+RUN THE BOT : node coc.js
