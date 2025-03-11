@@ -4,6 +4,9 @@ CLASH OF COINS AUTO CLAIM BONUS POINT
 
 ⬇️ Install Depedencies
 
+git pull https://github.com/0xfrostone/clashofcoins.git
+cd clashofcoins
+
 npm install axios fs dotenv
 npm install ethers@5
 
