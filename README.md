@@ -8,9 +8,9 @@ git pull https://github.com/0xfrostone/clashofcoins.git && cd clashofcoins
 npm install axios fs dotenv ethers@5
 
 ⬇️ Fill Bearer and Private Key using this format
-```sh
+
 nano text.txt
-```sh
+
 nano .env
 
 ⬇️ Run Bot
